@@ -26,6 +26,6 @@ IT,S A POWERFUL DDOS ATTACK TOOL
     pkg install golang 
 
 # RUN 
-    python TBB-DDOS-V2.py 
+    python TBB-DDOS.py 
 
     
